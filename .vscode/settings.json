@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "atomic": "cpp",
+        "functional": "cpp",
+        "new": "cpp",
+        "streambuf": "cpp",
+        "typeinfo": "cpp",
+        "algorithm": "cpp"
+    }
+}
